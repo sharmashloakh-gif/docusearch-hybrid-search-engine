@@ -1,2 +1,3 @@
-# docusearch-hybrid-search-engine
-Inverted-index full-text search engine built from first principles in Python and Django. Tokenizes documents, tracks term frequencies, and ranks search queries using the Okapi BM25 relevance algorithm rather than slow SQL wildcard lookups.
+# DocuSearch — Inverted-Index & BM25 Full-Text Search Engine
+
+A search engine built from first principles in **Python** and **Django** implementing tokenization, stop-word filtering, an inverted index, and **Okapi BM25** relevance ranking with snippet highlighting.
